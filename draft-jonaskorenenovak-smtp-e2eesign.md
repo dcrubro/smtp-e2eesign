@@ -1,7 +1,7 @@
 ---
 title: "SMTP Extensions for End-to-End Encryption and User-Level Signatures"
 abbrev: "SMTP-E2EESIGN"
-docname: draft-jonaskorenenovak-smtp-e2eesign-00
+docname: draft-korenenovak-smtp-e2eesign-00
 category: info
 submissiontype: independent
 consensus: false
@@ -19,7 +19,7 @@ venue:
   mail: dispatch@ietf.org
   arch: https://mailarchive.ietf.org/arch/browse/dispatch
   github: dcrubro/smtp-e2eesign
-  latest: https://dcrubro.com/files/smtp-ee2esign-latest.html
+  latest: https://dcrubro.com/files/smtp-ee2esign-latest.txt
 
 author:
  -

@@ -9,7 +9,7 @@ Expires: 7 January 2026
 
 
   SMTP Extensions for End-to-End Encryption and User-Level Signatures
-                draft-jonaskorenenovak-smtp-e2eesign-00
+                   draft-korenenovak-smtp-e2eesign-00
 
 Abstract
 
@@ -24,10 +24,9 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://dcrubro.com/files/smtp-ee2esign-latest.html.  Status
+   https://dcrubro.com/files/smtp-ee2esign-latest.txt.  Status
    information for this document may be found at
-   https://datatracker.ietf.org/doc/draft-jonaskorenenovak-smtp-
-   e2eesign/.
+   https://datatracker.ietf.org/doc/draft-korenenovak-smtp-e2eesign/.
 
    Discussion of this document takes place on the DISPATCH Working Group
    mailing list (mailto:dispatch@ietf.org), which is archived at
@@ -47,9 +46,10 @@ Status of This Memo
    working documents as Internet-Drafts.  The list of current Internet-
    Drafts is at https://datatracker.ietf.org/drafts/current/.
 
-
-
-
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
 
 
 
@@ -57,11 +57,6 @@ Novak                    Expires 7 January 2026                 [Page 1]
 
 Internet-Draft                SMTP-E2EESIGN                    July 2025
 
-
-   Internet-Drafts are draft documents valid for a maximum of six months
-   and may be updated, replaced, or obsoleted by other documents at any
-   time.  It is inappropriate to use Internet-Drafts as reference
-   material or to cite them other than as "work in progress."
 
    This Internet-Draft will expire on 7 January 2026.
 
@@ -103,6 +98,11 @@ Table of Contents
    9.  Normative References  . . . . . . . . . . . . . . . . . . . .  12
    Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . .  12
    Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  12
+
+
+
+
+
 
 
 
